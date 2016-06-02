@@ -5,7 +5,7 @@ permalink: /reitti/4/
 ---
 
 Suomalainen koodari on kansainvälisessä vertailussa kovatasoinen. Esimerkiksi
-Demoskene ja Nokia ovat omalta osaltaan auttaneet luomaan ympäristön, jossa
+demoskene ja Nokia ovat omalta osaltaan auttaneet luomaan ympäristön, jossa
 huippuosaajat ovat saaneet kasvaa.
 
 Suomalainen IT-ala kaipaa huippuammattilaisia myös tulevaisuudessa ja sen eteen
